@@ -18,7 +18,6 @@ function Navbar({ user, setPage }) {
                 </h1>
 
                 <div className="hidden md:flex items-center gap-8 text-sm text-gray-400">
-                    <a href="#features" className="hover:text-white transition">Features</a>
                     <a href="#how-it-works" className="hover:text-white transition">How it Works</a>
                     <a href="#pricing" className="hover:text-white transition">Pricing</a>
                 </div>
